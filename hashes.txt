@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El chico de la guitarra
+
+This log tracks the cryptographic history and versioning for the song **El chico de la guitarra** (el-chico-de-la-guitarra).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T21:35:39.314826 | `v1` | `e8edec4e251759d6d8c73fcbe3a133daea9f1215cb2b7f5b75ba8d471519bb9d` | `e24346bad039b6a3d9e70d60535ef87b17ddcf8e54417860ebf9d4e57a3f4f85` | `2026-06-14_el-chico-de-la-guitarra-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

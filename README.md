@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-chico-de-la-guitarra/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for El chico de la guitarra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-chico-de-la-guitarra/) |
+| **Get License** | [Commercial Licensing for El chico de la guitarra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-chico-de-la-guitarra/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e8edec4e251759d6d8c73fcbe3a133daea9f1215cb2b7f5b75ba8d471519bb9d` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
