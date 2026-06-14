@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-chico-de-la-guitarra/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: El chico de la guitarra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-chico-de-la-guitarra/) |
+| **Get License** | [Secure Licensing Rights for El chico de la guitarra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-chico-de-la-guitarra/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Son las doce y ya me tienes en tu mente, my baby
+> El brillo de tus ojos en la disco me llama
+> Tú y yo sabemos que este fuego se enciende, crazy
+> Esta noche soy el chico de la guitarra.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
